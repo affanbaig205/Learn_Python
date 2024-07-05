@@ -1,5 +1,5 @@
 # Python Learning Repository
-![Uploading python-banner.jpg…]()
+1.History_of_Python_&_Introduction/python_01.jpg
 
 Welcome to the Python Learning Repository! This repository is designed to help beginners learn Python step by step. Whether you're new to programming or looking to enhance your skills, you've come to the right place.
 
