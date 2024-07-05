@@ -1,5 +1,5 @@
 # Python Learning Repository
-1.History_of_Python_&_Introduction/python_01.jpg
+![python_01](https://github.com/affanbaig205/Learn_Python_with_Baig/assets/76461856/755821cd-f07c-40d2-bca5-6c51a516b55c)
 
 Welcome to the Python Learning Repository! This repository is designed to help beginners learn Python step by step. Whether you're new to programming or looking to enhance your skills, you've come to the right place.
 
