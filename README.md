@@ -8,7 +8,7 @@ Welcome to the Python Learning Repository! This repository is designed to help b
 1. **Clone the Repository:**
    - First, clone this repository to your local machine using the following command:
      ```
-     https://github.com/affanbaig205/Learn_Python_with_Baig.git
+     https://github.com/affanbaig205/Learn_Python.git
      ```
 
 2. **Install Python:**
